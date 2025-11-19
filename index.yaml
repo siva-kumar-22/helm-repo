@@ -3,12 +3,12 @@ entries:
   frontendproxy:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-19T12:55:29.876617654Z"
+    created: "2025-11-19T13:03:10.844889387Z"
     description: A Helm chart for Kubernetes
-    digest: 216e45b1195fa7304f04f59a0467cc16a6733e1e3f3e7819c556810409b78471
+    digest: 28d0fa9347c6d47368ba187b4e72589e898a1bada5b497ab3649f8912c5059d7
     name: frontendproxy
     type: application
     urls:
     - frontendproxy-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-19T12:55:29.875048529Z"
+generated: "2025-11-19T13:03:10.84334143Z"
